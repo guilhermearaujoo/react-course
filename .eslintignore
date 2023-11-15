@@ -1,4 +1,7 @@
 node_modules
-vscode
+.vscode
 coverage
-*.spec.ts
+public
+dist
+*.scss
+*.json
